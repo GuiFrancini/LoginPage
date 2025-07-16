@@ -1,6 +1,6 @@
 # React + Vite
 
-antes de rodar é preiso instalar  o node_modules no projeto com o comando <h2> npm install </h2>
+antes de rodar é preciso instalar  o node_modules no projeto com o comando <h2> npm install </h2>
 se não tiver o node instalado na sua maquina pergunte ao ChatGPT como se faz isso!
 
 Para rodar o projeto e so dar um <h2> npm run dev </h2>
